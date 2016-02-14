@@ -18,5 +18,6 @@
 ## Usage:
 - Add CSS file github.css
 - Add JS file github.js
+- Add UP and DOWN images and make sure github.js points to them correctly
 - Copy paste HTML example from github.html into your project
 - Make mad hott buxx
